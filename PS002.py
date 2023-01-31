@@ -1,15 +1,25 @@
-# Arithmetic Operators
+# Python If-Else
+
 import math
+import os
+import random
+import re
+import sys
+
 
 if __name__ == '__main__':
-    a = int(input("a= "))
-    b = int(input("b= "))
-    if a in range(int(math.pow(10, 10))) and b in range(int(math.pow(10, 10))):
-        print(a + b)
-        print(a - b)
-        print(a * b)
-    else:
-        print("a, b not in range 0 to 10000000000")
+    
+    n = int(input("n= ").strip())
+
+    if n % 2 == 1 :
+        print("Weird")
+    elif n % 2 == 0 and n in range(2, 5):
+        print("Not Weird")
+    elif n % 2 == 0 and n in range(6, 21):
+        print("Weird")
+    elif n % 2 == 0 and n > 20:
+        print("Not Weird")
         
-# Software Engineer Joseph   
+        
+# Software Engineer Joseph    
         
