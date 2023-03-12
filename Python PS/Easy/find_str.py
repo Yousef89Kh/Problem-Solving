@@ -7,7 +7,7 @@
 
 def count_substring(string, sub_string):
     count = 0
-    for i in range(0, len(string)):
+    for i in range(len(string)):
         pro_sub = string[i:len(sub_string)+i]
         if sub_string == pro_sub:
             count+=1
