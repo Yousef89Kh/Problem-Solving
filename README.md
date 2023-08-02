@@ -1,4 +1,4 @@
-# Problem-Solving
+# Problem Solving
 
 ## HackerRank Problem Solving
 
