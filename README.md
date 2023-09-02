@@ -1,8 +1,6 @@
 # Problem Solving
 
-## HackerRank Problem Solving
-
-### [My HackerRank Profile](https://www.hackerrank.com/yousefkullab?hr_r=1)
+## [My HackerRank Profile](https://www.hackerrank.com/yousefkullab?hr_r=1)
 
 ## License
 
